@@ -20,7 +20,7 @@ Here are some personal projects I have made over the years. These were made with
 * C++: [Arrays of Fun](https://replit.com/@AceFox95/Arrays-of-Fun-Version-2)
 * JavaScript: [WandaVision Quiz](https://replit.com/@AceFox95/WandaVision-Personality-Quiz)
 * HTML: [Discussing Our Differences](https://discrimination.projects.gwcnorfolk.org/)
-*   (My pages on "Discussing Our Differences" are the following: [Why are Women Sexualized in Video Games?](https://discrimination.projects.gwcnorfolk.org/stories/why-are-women-sexualized-in-video-games/#) and [About Me.](https://discrimination.projects.gwcnorfolk.org/about-emily/) (This page is two years old, so the info might be a little out of date.)
+*   (My pages on "Discussing Our Differences" are the following: [Why are Women Sexualized in Video Games?](https://discrimination.projects.gwcnorfolk.org/stories/why-are-women-sexualized-in-video-games/#) and my ["About Me" page](https://discrimination.projects.gwcnorfolk.org/about-emily/) (This page is two years old, so the info might be a little out of date.)
 * CSS: [Activism Website](https://replit.com/@AceFox95/Activism-Website)
 
 ___
