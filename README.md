@@ -15,7 +15,7 @@ ___
 ___
 
 ### Projects
-Here are some personal projects I have made over the years. These were made with some of the languages listed above, excluding PEP9 and Linux.
+Here are some basic personal projects I have made over the years. These were made with some of the languages listed above, excluding PEP9 and Linux.
 * Python: [Cracking Caesar's Cipher](https://replit.com/@AceFox95/Cracking-Caesars-Cipher-Emily-R)
 * C++: [Arrays of Fun](https://replit.com/@AceFox95/Arrays-of-Fun-Version-2)
 * JavaScript: [WandaVision Quiz](https://replit.com/@AceFox95/WandaVision-Personality-Quiz)
