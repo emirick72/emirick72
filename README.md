@@ -18,9 +18,11 @@ ___
 ### Projects
 Here are some personal projects I have made over the years. These were made with some of the languages listed above, excluding PEP9 and Linux.
 * Python: [Cracking Caesar's Cipher](https://replit.com/@AceFox95/Cracking-Caesars-Cipher-Emily-R)
-* C++: [Array of Fun](https://replit.com/@ejrick953/Arrays-of-Fun-Version-2?v=1)
-* JavaScript: [WandaVision Quiz](https://replit.com/@ejrick953/WandaVision-Personality-Quiz?v=1)
-* 
+* C++: [Arrays of Fun](https://replit.com/@AceFox95/Arrays-of-Fun-Version-2)
+* JavaScript: [WandaVision Quiz](https://replit.com/@AceFox95/WandaVision-Personality-Quiz)
+* HTML: [Discussing Our Differences](https://discrimination.projects.gwcnorfolk.org/)
+*   (My pages on "Discussing Our Differences" are the following: [Why are Women Sexualized in Video Games?](https://discrimination.projects.gwcnorfolk.org/stories/why-are-women-sexualized-in-video-games/#) and [About Me (this page is two years old, so the info might be out of date).](https://discrimination.projects.gwcnorfolk.org/about-emily/)
+* CSS: [Activism Website](https://replit.com/@AceFox95/Activism-Website)
 
 <!--
 **emirick72/emirick72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
