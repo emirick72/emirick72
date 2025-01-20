@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-My name is Emily Rick and I am a Computer Science undergraduate with an interest in software development. I have dabbled in a little bit of the languages listed below, but my two favorites are Python and Java. I am currently learning Linux/Unix and find it very interesting.
+My name is Emily Rick and I am a Computer Science undergraduate with an interest in software development. I have dabbled in a little bit of the languages listed below, but my two main favorites are Python and Java. I am currently learning C# and brushing up on my Java and C++ skills.
 ___
 
 ### Languages I've Learned So Far
