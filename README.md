@@ -17,7 +17,7 @@ ___
 Create other projects in these languages and replace the dead URL links
 * Python
 * C++
-~* HTML/CSS/JavaScript (replace with CS 312 website assignment)~
+* ~HTML/CSS/JavaScript (replace with CS 312 website assignment)~
 ___
 
 ### Current and Recent Projects
