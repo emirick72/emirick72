@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-My name is Emily Rick and I am a Computer Science undergraduate with an interest in software development. I have dabbled in a little bit of the languages listed below, but my two main favorites are Python and Java. I am currently learning C# and brushing up on my Java and C++ skills.
+My name is Emily Rick (she/her) and I am a Computer Science undergraduate at Old Dominion University with an interest in software development. I have dabbled in a little bit of the languages listed below, but my two main favorites are Python and Java. I am currently learning more about and brushing up on my Python, Java, and C++ skills.
 ___
 
 ### Languages I've Learned So Far
@@ -17,17 +17,17 @@ ___
 Create other projects in these languages and replace the dead URL links
 * Python
 * C++
-* HTML/CSS/JavaScript (replace with CS 312 website assignment)
+* ~HTML/CSS/JavaScript (replace with CS 312 website assignment)~
 ___
 
 ### Projects
 Here are some basic personal projects I have made over the years. These were made with some of the languages listed above, excluding PEP9 and Linux.
 * Python: [Cracking Caesar's Cipher](https://replit.com/@AceFox95/Cracking-Caesars-Cipher-Emily-R) (DEAD LINK)
 * C++: [Arrays of Fun](https://replit.com/@AceFox95/Arrays-of-Fun-Version-2) (DEAD LINK)
-* JavaScript: [WandaVision Quiz](https://replit.com/@AceFox95/WandaVision-Personality-Quiz)
-* HTML: [Discussing Our Differences](https://discrimination.projects.gwcnorfolk.org/)
-*   (My pages on "Discussing Our Differences" are the following: [Why are Women Sexualized in Video Games?](https://discrimination.projects.gwcnorfolk.org/stories/why-are-women-sexualized-in-video-games/#) and my ["About Me" page.](https://discrimination.projects.gwcnorfolk.org/about-emily/) (This page is two years old (as of Fall 2024), so the info might be a little out of date.)
-* CSS: [Activism Website](https://replit.com/@AceFox95/Activism-Website)
+* HTML/CSS/JS
+   * [ODU CS 312 Assignment Linktree](https://emirick72.github.io/secure_html/)
+   * [Discussing Our Differences](https://discrimination.projects.gwcnorfolk.org/)
+      *   (My pages on "Discussing Our Differences" are the following: [Why are Women Sexualized in Video Games?](https://discrimination.projects.gwcnorfolk.org/stories/why-are-women-sexualized-in-video-games/) and my ["About Me" page.](https://discrimination.projects.gwcnorfolk.org/about-emily/) (This page is two and a half years old [as of Spring 2025], so the info is a little out of date.)
 
 ___
 
