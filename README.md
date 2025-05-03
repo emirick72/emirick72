@@ -13,11 +13,17 @@ ___
 * PEP9 Assembly Language
 * Linux/Unix
 ___
+### TO DO:
+Create other projects in these languages and replace the dead URL links
+* Python
+* C++
+* HTML/CSS/JavaScript (replace with CS 312 website assignment)
+___
 
 ### Projects
 Here are some basic personal projects I have made over the years. These were made with some of the languages listed above, excluding PEP9 and Linux.
-* Python: [Cracking Caesar's Cipher](https://replit.com/@AceFox95/Cracking-Caesars-Cipher-Emily-R)
-* C++: [Arrays of Fun](https://replit.com/@AceFox95/Arrays-of-Fun-Version-2)
+* Python: [Cracking Caesar's Cipher](https://replit.com/@AceFox95/Cracking-Caesars-Cipher-Emily-R) (DEAD LINK)
+* C++: [Arrays of Fun](https://replit.com/@AceFox95/Arrays-of-Fun-Version-2) (DEAD LINK)
 * JavaScript: [WandaVision Quiz](https://replit.com/@AceFox95/WandaVision-Personality-Quiz)
 * HTML: [Discussing Our Differences](https://discrimination.projects.gwcnorfolk.org/)
 *   (My pages on "Discussing Our Differences" are the following: [Why are Women Sexualized in Video Games?](https://discrimination.projects.gwcnorfolk.org/stories/why-are-women-sexualized-in-video-games/#) and my ["About Me" page.](https://discrimination.projects.gwcnorfolk.org/about-emily/) (This page is two years old (as of Fall 2024), so the info might be a little out of date.)
