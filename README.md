@@ -36,7 +36,7 @@ Some random fun facts about me:
 * I have two dogs, Walter and Clyde. Walter is a Wheaten Terrier and Clyde is a Dachshund/Miniature Schnauzer mix.
 
 ___
-### Legacy GWC Projects
+### GWC Legacy Projects
 Listed below are my old group Community Impact Projects from my time in Girls Who Code.
 1. [Endangered Animals Project](https://projects.gwcnorfolk.org/endangered-animals-apps-project/) - 2018-'19
    * My part of the project: [Polar Bear Maze Game](https://pii.fzi.mybluehost.me/endangered-animals-apps/polar-bear-maze-game/)
