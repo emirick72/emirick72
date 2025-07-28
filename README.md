@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-My name is Emily Rick (she/her) and I am a Computer Science undergraduate at Old Dominion University with an interest in software development. I have dabbled in a little bit of the languages listed below, but my two main favorites are Python and Java. I am currently learning more about and brushing up on my Python, Java, and C++ skills, along with going back to my roots in web development.
+My name is Emily Rick (she/her) and I am a Computer Science undergraduate at Old Dominion University with an interest in software development. I have dabbled in a little bit of the languages listed below, but my favorites are Python, Java, and C++. I am currently learning more about and brushing up on my C++ skills, along with going back to my roots in web development.
 ___
 
 ### Languages I've Learned So Far
@@ -21,8 +21,6 @@ ___
 
 ### Current and Recent Projects
 Here are some current and recent personal projects I have made over the years. These were made with some of the languages listed above.
-* Python: [Cracking Caesar's Cipher](https://replit.com/@AceFox95/Cracking-Caesars-Cipher-Emily-R) (DEAD LINK)
-* C++: [Arrays of Fun](https://replit.com/@AceFox95/Arrays-of-Fun-Version-2) (DEAD LINK)
 * HTML/CSS/JS
    * [ODU CS 312 Assignment Linktree](https://emirick72.github.io/secure_html/)
 
