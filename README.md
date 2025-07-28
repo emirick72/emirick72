@@ -20,7 +20,7 @@ Create other projects in these languages and replace the dead URL links.
 ___
 
 ### Current and Recent Projects
-Here are some current and recent personal projects I have made over the years. These were made with some of the languages listed above.
+Here are some personal projects I have made recently. These were made with the languages listed above.
 * HTML/CSS/JS
    * [ODU CS 312 Assignment Linktree](https://emirick72.github.io/secure_html/)
 
@@ -34,7 +34,7 @@ Some random fun facts about me:
 
 ___
 ### GWC Legacy Projects
-Girls Who Code was what got me into programming and eventually led me to choosing CS as my college major. Listed below are my old group Community Impact Projects from my time in my local club.
+Girls Who Code was my introduction into programming and eventually led me to choosing CS as my college major. Listed below are my old group Community Impact Projects from my time in my local club.
 1. [Discussing Our Differences](https://discrimination.projects.gwcnorfolk.org/) - 2021-'22
    * My part of the project: [Why are Women Sexualized in Video Games?](https://discrimination.projects.gwcnorfolk.org/stories/why-are-women-sexualized-in-video-games/)
 2. [Teen Mental Health Website](https://gwcnorfolk.github.io/teen-mental-health/index.html) - 2020-'21
