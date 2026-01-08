@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-My name is Emily Rick (she/her) and I am a Computer Science undergraduate at Old Dominion University with an interest in software development. I have dabbled in a little bit of the languages listed below, but my favorites are Python, Java, and C++. I am currently learning more about and brushing up on my C++ skills, along with going back to my roots in web development.
+My name is Emily Rick (she/her) and I am a Computer Science undergraduate at Old Dominion University with an interest in software development. I have dabbled in a little bit of the languages listed below, but my favorites are Python, Java, and C++. I am currently learning more about and brushing up on my Java skills in school, along with going back to my roots in web development on the side.
 ___
 
 ### Languages I've Learned So Far
@@ -27,10 +27,11 @@ Here are some personal projects I have made recently. These were made with the l
 ___
 
 Some random fun facts about me:
-* I have lived in three different states (VA, FL, and MD) and moved nine times in the past fifteen years.
+* I have lived in three different states (VA, FL, and MD) and moved nine times since 2010.
 * I can play both the piano and the violin (I'm a little out of practice with the violin, but I'm getting back into piano as a hobby.)
-* I am a huge nerd, especially when it comes to anything *Five Nights at Freddy's* related.
+* I am a huge nerd, especially with *Five Nights at Freddy's* or Twenty One Pilots. |-/
 * I have two dogs, Walter and Clyde. Walter is a Wheaten Terrier and Clyde is a Dachshund/Miniature Schnauzer mix.
+* I do art on the side and love working on visual-based projects.
 
 ___
 ### GWC Legacy Projects
