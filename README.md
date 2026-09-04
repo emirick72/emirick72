@@ -9,8 +9,8 @@ ___
 * Databases: mySQL
 * Dev Tools: Linux/Unix, Git, GitHub, GitLab, VSCode, QtCreator, Podman
 ___
-Some fun facts about me:
-* I do art on the side, mainly drawing (traditional and digital).
+### Fun Facts:
+* I do art on the side, mainly illustration (traditional and digital).
 * I have lived in three different states (VA, FL, and MD) and moved ten times since 2010.
 * I can play both the piano and the violin.
 * I am a huge nerd, especially with *Star Fox*, *FNAF*, and Twenty One Pilots |-/
